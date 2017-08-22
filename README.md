@@ -6,11 +6,20 @@
 + [JNA](https://github.com/CrowHawk/JavaLearning/tree/master/JNAPointer)：演示了JNA的基本用法，使用Java调用C++代码。
 
 ## 博客目录
+### Java基础
 + [Java基础学习(1)——反射](https://crowhawk.github.io/2017/02/12/basic-java-reflect/)
 + [Java基础学习(2)——注解](https://crowhawk.github.io/2017/02/13/basic-java-annotation/)
 + [Java基础学习(3)——泛型](https://crowhawk.github.io/2017/02/21/basic-java-generic/)
 + [Java基础学习(4)——动态代理](https://crowhawk.github.io/2017/02/21/basic-java-proxy/)
 + [《Java多线程核心技术》读书笔记](https://crowhawk.github.io/2017/07/06/MultiThread/)
+
+### JVM
++ [深入理解JVM(1)——Java内存区域与Java对象](https://crowhawk.github.io/2017/08/09/jvm_1/)
++ [深入理解JVM(2)——GC算法与内存分配策略](https://crowhawk.github.io/2017/08/10/jvm_2/)
++ [深入理解JVM(3)——7种垃圾收集器](https://crowhawk.github.io/2017/08/15/jvm_3/)
++ [深入理解JVM(4)——如何优化Java GC「译」](https://crowhawk.github.io/2017/08/21/jvm_4/)
++ [深入理解JVM(5)——虚拟机类加载机制](https://crowhawk.github.io/2017/08/21/jvm_5/)
++ [深入理解JVM(6)——类加载器](https://crowhawk.github.io/2017/08/21/jvm_6/)
 
 ## 联系作者
 [Personal Website：Crow Home](https://crowhawk.github.io/)
